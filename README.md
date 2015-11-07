@@ -1,10 +1,13 @@
-Games Sandbox
+Military games and the military shooter
 =============
 
-Todo
-----
-* Finish mobile device orientation: http://www.sitepoint.com/using-device-orientation-html5/?utm_content=buffer56293&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-* Make control and border game objects without graphical representation
-* Integrate hoverlord into oo framework and see what extensions are needed
+Looking for the best military shooter or shall I say the best game ever? Have been browsing a cool video games and PC games and stumbled-upon with these lists of awesome greatest military shooters. Ok, so, let say that these lists were old, maybe, but here the thing, like Tom Clancy’s Rainbow Six, the warfare begins.
+
+One of my best military shooters includes Dragon Rising, Red Orchestra 2, SOCOM 2 and [US military bases Hawaii](http://militarybases.co/directory/hickam-air-force-base-in-honolulu-hi/). You can have the tactical shooters anytime you want.
+
+
+![Screenshot of military](http://arcadesushi.com/550/files/2013/11/Military-Shooters.jpg)
+
+![Screenshot of military](http://arcadesushi.com/550/files/2013/11/Operation-Flashpoint-Dragon-Rising.jpg?w=630&cdnnode=1)
 
 
